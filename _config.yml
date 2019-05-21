@@ -4,4 +4,4 @@ navbar:
   left:
     - text: "Project"
       href: final.html
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
