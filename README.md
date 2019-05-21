@@ -1,4 +1,5 @@
-# cmsc320final
+# CMSC320 Final Project
+
 This is an R based project done for the purpose of the CMSC320 Spring 2019 Class Final Project.
 
 More information on that can be seen [here](http://www.hcbravo.org/IntroDataSci/projects/final_project/).
