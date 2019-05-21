@@ -1,0 +1,7 @@
+name: "CMSC320 Final: Muchlas Amirinanto"
+navbar:
+  title: "CMSC320 Final: Muchlas Amirinanto"
+  left:
+    - text: "Project"
+      href: final.html
+theme: jekyll-theme-minimal
